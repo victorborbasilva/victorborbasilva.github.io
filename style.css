@@ -1,5 +1,5 @@
 body {
-  background-color: #BB00BB;
+  background-color: #21006F;
 }
 
 .button {
@@ -22,7 +22,7 @@ body {
     }
     
     .button1:hover {
-      background-color: #CC0000;
+      background-color: #FF911A;
       color: white;
       transform: scale(1.10);
     }
@@ -34,7 +34,7 @@ body {
     }
     
     .button2:hover {
-      background-color: #00CC00;
+      background-color: #E100F5;
       color: white;
       transform: scale(1.10);
     }    
