@@ -4,18 +4,21 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script>
         $(document).ready(function(){
-            $("button").click(function(){
-                $("#div1").load("demo_test.txt");
-                //$("#div1").load("planilha2B.ods");
-            });
+            $("button1").click(function(){
+                $("#div1").load("demo_testB.txt");
+                });
+            $("button2").click(function(){
+                $("#div1").load("demo_testC.txt");
+                });
         });
         </script>
     </head>
     <body>
-    
-        <div id="div1"><h2>Let jQuery AJAX Change This Text</h2></div>
+        <h1>Relação de Alunos com Sites "Prontos"</h1>
+        <div id="div1"><h2>Relação de Alunos</h2></div>
         
-        <button>Get External Content</button>
+        <button1>2ºB</button1>
+        <button2>2ºC</button2>
     
     </body>
 </html>
