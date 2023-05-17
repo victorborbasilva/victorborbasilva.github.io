@@ -1,26 +1,28 @@
-<div class="row p-3"> <div class="col-3"> <a href="https://andressamoraesss.github.io/" target="_blank">ANDRESSA DE MORAES DE ALMEIDAO</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https://bispomaiara.github.io/" target="_blank">MAIARA CONSATTI APRIGIO BISPO</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https://dayanastephany.github.io/" target="_blank">DAYANA STEPHANY DE SOUZA BLOCK</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https://duda2606.github.io/" target="_blank">EDUARDA CAROLINA ROSSETTO</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https://dudaBoneti.github.io/" target="_blank">MARIA EDUARDA BONETI CORNACHIONE</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https://icaro999.github.io/" target="_blank">ICARO PAULETI DA SILVA</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https://oliverlucasvalerio.github.io/" target="_blank">OLIVER LUCAS VALERIO</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https://emaanueles.github.io/" target="_blank">    ANE EMANUELE RIBEIRO</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https://maionesejr.github.io/" target="_blank">    CAIO VINICIUS MORA DA CUNHA</a> </div> </div>
-CADÊ?    CHRISTIAN LABRENZ
-<div class="row p-3"> <div class="col-3"> <a href="https://indianaraquinot2006.github.io/" target="_blank">    INDIANARA ANTUNES QUINOT</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https://juliafischer06.github.io/" target="_blank">    JULIA GABRIELA FISCHER</a> </div> </div>
-CADÊ?    JULIO CESAR BARBOSA WEBER
-<div class="row p-3"> <div class="col-3"> <a href="https://kellymuller123.github.io/" target="_blank">    KEVELLYN EDUARDA MULLER KOCHEN</a> </div> </div>
-CADÊ?    LEONARDO LUIZ ALVES BELLE<br>
-CADÊ?    LUIZ EDUARDO MARQUES DE OLIVEIRA<br>
-CADÊ?    MATHEUS AUGUSTO NUNES FURST<br>
-<div class="row p-3"> <div class="col-3"> <a href="https://maykelly17.github.io/" target="_blank">    MAYKELLY ARAUJO</a> </div> </div>
-CADÊ?    PAULA CRISTINA GOMES DA SILVA
-<div class="row p-3"> <div class="col-3"> <a href="https://pedroenr17.github.io/" target="_blank">    PEDRO ENRIQUE SCHAEFER PEREIRA</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https://vinilemebck.github.io/" target="_blank">    VINICIUS ALMADAZ LEMBECK</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https://vitoriafreita.github.io/" target="_blank">    VITORIA CAMILE FREITAG DIEDRICHS</a> </div> </div>
-CADÊ?    WESLEY DA SILVEIRA<br>
-CADÊ?    YAN VITOR DE OLIVEIRA CARDOSO<br>
-<div class="row p-3"> <div class="col-3"> <a href="https://Sofiamaiara.github.io/" target="_blank">SOFIA MAIARA FEIDEN DA COSTA</a> </div> </div>
-
+CADÊ?ALESSANDRO GASS HOLSCHER<br>
+CADÊ?CAMILI VITORIA DOS SANTOS TEIXEIRA<br>
+CADÊ?CHAIAN ANDREI OCAMPO NUNEZ<br>
+<div class="row p-3"> <div class="col-3"> <a href="https:clarathiesen07.github.io/" target="_blank">CLARA FERNANDA LORENZI THIESEN</a> </div> </div>
+CADÊ?EDUARDO AUGUSTO DA SILVA<br>
+CADÊ?EDVALDO OLIVEIRA SOUZA JUNIOR<br>
+CADÊ?FABRICIO TURAZZI PAES DANIELSKI<br>
+CADÊ?GABRIEL VINICIUS BIEGER<br>
+CADÊ?IAN HENRIQUE IAPP<br>
+CADÊ?JOYCE GIMENES DE SOUZA<br>
+CADÊ?LAYLA LATYFA ALVES PINHEIRO LIMA<br>
+CADÊ?LEONARDO ANDRE WOLKMER COLPANI<br>
+<div class="row p-3"> <div class="col-3"> <a href="https:Le20077.github.io/" target="_blank">LETICIA BEATRYZ BACH</a> </div> </div>
+CADÊ?LUCAS EDUARDO SPIER<br>
+CADÊ?LUCAS VINICIUS AULER OECHSLER<br>
+CADÊ?LUIZ FERNANDO VERISSIMO<br>
+<div class="row p-3"> <div class="col-3"> <a href="https:marcosbruno22.github.io/" target="_blank">MARCOS BRUNO PILGER</a> </div> </div>
+CADÊ?MATEUS NEUBECKER<br>
+CADÊ?MATHEUS PETRI KOCHEM<br>
+CADÊ?NATALIA FERREIRA DOS SANTOS<br>
+<div class="row p-3"> <div class="col-3"> <a href="https:Priscilarichart.github.io/" target="_blank">PRISCILA LUANA SOUCHIE RICHART</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:sarahkmachado.github.io/" target="_blank">SARAH KAUANE MACHADO</a> </div> </div>
+CADÊ?SUZELE MAIARA UTZIG DE JESUS<br>
+CADÊ?VICTOR FACCIN FELDER<br>
+CADÊ?VINICIUS FACCIN FELDER<br>
+CADÊ?VITORIA DRAEGER<br>
+CADÊ?YGOR MACHADO RAUBER<br>
+CADÊ?YURI DA SILVA SILVEIRA<br>
