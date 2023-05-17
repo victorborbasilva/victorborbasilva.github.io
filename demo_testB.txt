@@ -1,25 +1,25 @@
 <div class="row p-3"> <div class="col-3"> <a href="https:andressamoraesss.github.io/" target="_blank">ANDRESSA DE MORAES DE ALMEIDAO</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https:bispomaiara.github.io/" target="_blank">MAIARA CONSATTI APRIGIO BISPO</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:emaanueles.github.io/" target="_blank">ANE EMANUELE RIBEIRO</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:maionesejr.github.io/" target="_blank">CAIO VINICIUS MORA DA CUNHA</a> </div> </div>
+CADÊ?CHRISTIAN LABRENZ<br>
 <div class="row p-3"> <div class="col-3"> <a href="https:dayanastephany.github.io/" target="_blank">DAYANA STEPHANY DE SOUZA BLOCK</a> </div> </div>
 <div class="row p-3"> <div class="col-3"> <a href="https:duda2606.github.io/" target="_blank">EDUARDA CAROLINA ROSSETTO</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https:dudaBoneti.github.io/" target="_blank">MARIA EDUARDA BONETI CORNACHIONE</a> </div> </div>
 <div class="row p-3"> <div class="col-3"> <a href="https:icaro999.github.io/" target="_blank">ICARO PAULETI DA SILVA</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:indianaraquinot2006.github.io/" target="_blank">INDIANARA ANTUNES QUINOT</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:juliafischer06.github.io/" target="_blank">JULIA GABRIELA FISCHER</a> </div> </div>
+CADÊ?JULIO CESAR BARBOSA WEBER<br>
+<div class="row p-3"> <div class="col-3"> <a href="https:kellymuller123.github.io/" target="_blank">KEVELLYN EDUARDA MULLER KOCHEN</a> </div> </div>
+CADÊ?LEONARDO LUIZ ALVES BELLE<br>
+CADÊ?LUIZ EDUARDO MARQUES DE OLIVEIRA<br>
+<div class="row p-3"> <div class="col-3"> <a href="https:bispomaiara.github.io/" target="_blank">MAIARA CONSATTI APRIGIO BISPO</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:dudaBoneti.github.io/" target="_blank">MARIA EDUARDA BONETI CORNACHIONE</a> </div> </div>
+CADÊ?MATHEUS AUGUSTO NUNES FURST<br>
+<div class="row p-3"> <div class="col-3"> <a href="https:maykelly17.github.io/" target="_blank">MAYKELLY ARAUJO</a> </div> </div>
 <div class="row p-3"> <div class="col-3"> <a href="https:oliverlucasvalerio.github.io/" target="_blank">OLIVER LUCAS VALERIO</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https:emaanueles.github.io/" target="_blank">    ANE EMANUELE RIBEIRO</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https:maionesejr.github.io/" target="_blank">    CAIO VINICIUS MORA DA CUNHA</a> </div> </div>
-CADÊ?ANDRESSA DE MORAES DE ALMEIDAO<br>
-<div class="row p-3"> <div class="col-3"> <a href="https:indianaraquinot2006.github.io/" target="_blank">    INDIANARA ANTUNES QUINOT</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https:juliafischer06.github.io/" target="_blank">    JULIA GABRIELA FISCHER</a> </div> </div>
-CADÊ?EDUARDA CAROLINA ROSSETTO<br>
-<div class="row p-3"> <div class="col-3"> <a href="https:kellymuller123.github.io/" target="_blank">    KEVELLYN EDUARDA MULLER KOCHEN</a> </div> </div>
-CADÊ?ICARO PAULETI DA SILVA<br>
-CADÊ?OLIVER LUCAS VALERIO<br>
-CADÊ?    ANE EMANUELE RIBEIRO<br>
-<div class="row p-3"> <div class="col-3"> <a href="https:maykelly17.github.io/" target="_blank">    MAYKELLY ARAUJO</a> </div> </div>
-CADÊ?    CHRISTIAN LABRENZ<br>
-<div class="row p-3"> <div class="col-3"> <a href="https:pedroenr17.github.io/" target="_blank">    PEDRO ENRIQUE SCHAEFER PEREIRA</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https:vinilemebck.github.io/" target="_blank">    VINICIUS ALMADAZ LEMBECK</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https:vitoriafreita.github.io/" target="_blank">    VITORIA CAMILE FREITAG DIEDRICHS</a> </div> </div>
-CADÊ?    KEVELLYN EDUARDA MULLER KOCHEN<br>
-CADÊ?    LEONARDO LUIZ ALVES BELLE<br>
+CADÊ?PAULA CRISTINA GOMES DA SILVA<br>
+<div class="row p-3"> <div class="col-3"> <a href="https:pedroenr17.github.io/" target="_blank">PEDRO ENRIQUE SCHAEFER PEREIRA</a> </div> </div>
 <div class="row p-3"> <div class="col-3"> <a href="https:Sofiamaiara.github.io/" target="_blank">SOFIA MAIARA FEIDEN DA COSTA</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:vinilemebck.github.io/" target="_blank">VINICIUS ALMADAZ LEMBECK</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:vitoriafreita.github.io/" target="_blank">VITORIA CAMILE FREITAG DIEDRICHS</a> </div> </div>
+CADÊ?WESLEY DA SILVEIRA<br>
+CADÊ?YAN VITOR DE OLIVEIRA CARDOSO<br>
