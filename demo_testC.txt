@@ -1,7 +1,7 @@
 CADÊ?ALESSANDRO GASS HOLSCHER<br>
 CADÊ?CAMILI VITORIA DOS SANTOS TEIXEIRA<br>
 CADÊ?CHAIAN ANDREI OCAMPO NUNEZ<br>
-<div class="row p-3"> <div class="col-3"> <a href="https:clarathiesen07.github.io/" target="_blank">CLARA FERNANDA LORENZI THIESEN</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https://clarathiesen07.github.io/" target="_blank">CLARA FERNANDA LORENZI THIESEN</a> </div> </div>
 CADÊ?EDUARDO AUGUSTO DA SILVA<br>
 CADÊ?EDVALDO OLIVEIRA SOUZA JUNIOR<br>
 CADÊ?FABRICIO TURAZZI PAES DANIELSKI<br>
@@ -10,16 +10,16 @@ CADÊ?IAN HENRIQUE IAPP<br>
 CADÊ?JOYCE GIMENES DE SOUZA<br>
 CADÊ?LAYLA LATYFA ALVES PINHEIRO LIMA<br>
 CADÊ?LEONARDO ANDRE WOLKMER COLPANI<br>
-<div class="row p-3"> <div class="col-3"> <a href="https:Le20077.github.io/" target="_blank">LETICIA BEATRYZ BACH</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https://Le20077.github.io/" target="_blank">LETICIA BEATRYZ BACH</a> </div> </div>
 CADÊ?LUCAS EDUARDO SPIER<br>
 CADÊ?LUCAS VINICIUS AULER OECHSLER<br>
 CADÊ?LUIZ FERNANDO VERISSIMO<br>
-<div class="row p-3"> <div class="col-3"> <a href="https:marcosbruno22.github.io/" target="_blank">MARCOS BRUNO PILGER</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https://marcosbruno22.github.io/" target="_blank">MARCOS BRUNO PILGER</a> </div> </div>
 CADÊ?MATEUS NEUBECKER<br>
 CADÊ?MATHEUS PETRI KOCHEM<br>
 CADÊ?NATALIA FERREIRA DOS SANTOS<br>
-<div class="row p-3"> <div class="col-3"> <a href="https:Priscilarichart.github.io/" target="_blank">PRISCILA LUANA SOUCHIE RICHART</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https:sarahkmachado.github.io/" target="_blank">SARAH KAUANE MACHADO</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https://Priscilarichart.github.io/" target="_blank">PRISCILA LUANA SOUCHIE RICHART</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https://sarahkmachado.github.io/" target="_blank">SARAH KAUANE MACHADO</a> </div> </div>
 CADÊ?SUZELE MAIARA UTZIG DE JESUS<br>
 CADÊ?VICTOR FACCIN FELDER<br>
 CADÊ?VINICIUS FACCIN FELDER<br>
