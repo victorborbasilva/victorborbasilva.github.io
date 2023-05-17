@@ -4,10 +4,12 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script>
         $(document).ready(function(){
-            $("button1").click(function(){
+            $("#button1").click(function(){
                 $("#div1").load("demo_testB.txt");
                 });
-            $("button2").click(function(){
+            });
+        $(document).ready(function(){
+            $("#button2").click(function(){
                 $("#div1").load("demo_testC.txt");
                 });
         });
