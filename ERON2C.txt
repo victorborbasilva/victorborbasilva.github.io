@@ -1,28 +1,23 @@
-CADÊ?ALESSANDRO GASS HOLSCHER<br>
-CADÊ?CAMILI VITORIA DOS SANTOS TEIXEIRA<br>
-CADÊ?CHAIAN ANDREI OCAMPO NUNEZ<br>
-<div class="row p-3"> <div class="col-3"> <a href="https://clarathiesen07.github.io/" target="_blank">CLARA FERNANDA LORENZI THIESEN</a> </div> </div>
-CADÊ?EDUARDO AUGUSTO DA SILVA<br>
-CADÊ?EDVALDO OLIVEIRA SOUZA JUNIOR<br>
-CADÊ?FABRICIO TURAZZI PAES DANIELSKI<br>
-CADÊ?GABRIEL VINICIUS BIEGER<br>
-CADÊ?IAN HENRIQUE IAPP<br>
-CADÊ?JOYCE GIMENES DE SOUZA<br>
-CADÊ?LAYLA LATYFA ALVES PINHEIRO LIMA<br>
-CADÊ?LEONARDO ANDRE WOLKMER COLPANI<br>
-<div class="row p-3"> <div class="col-3"> <a href="https://Le20077.github.io/" target="_blank">LETICIA BEATRYZ BACH</a> </div> </div>
-CADÊ?LUCAS EDUARDO SPIER<br>
-CADÊ?LUCAS VINICIUS AULER OECHSLER<br>
-CADÊ?LUIZ FERNANDO VERISSIMO<br>
-<div class="row p-3"> <div class="col-3"> <a href="https://marcosbruno22.github.io/" target="_blank">MARCOS BRUNO PILGER</a> </div> </div>
-CADÊ?MATEUS NEUBECKER<br>
-CADÊ?MATHEUS PETRI KOCHEM<br>
-CADÊ?NATALIA FERREIRA DOS SANTOS<br>
-<div class="row p-3"> <div class="col-3"> <a href="https://Priscilarichart.github.io/" target="_blank">PRISCILA LUANA SOUCHIE RICHART</a> </div> </div>
-<div class="row p-3"> <div class="col-3"> <a href="https://sarahkmachado.github.io/" target="_blank">SARAH KAUANE MACHADO</a> </div> </div>
-CADÊ?SUZELE MAIARA UTZIG DE JESUS<br>
-CADÊ?VICTOR FACCIN FELDER<br>
-CADÊ?VINICIUS FACCIN FELDER<br>
-CADÊ?VITORIA DRAEGER<br>
-CADÊ?YGOR MACHADO RAUBER<br>
-CADÊ?YURI DA SILVA SILVEIRA<br>.
+<div class="row p-3"> <div class="col-3"> <a href="https:https://leonardoandr3.github.io/leonardoandr3/.github.io/" target="_blank">LEONARDO ANDRE WOLKMER COLPANI</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:chaianandrei.github.io/" target="_blank">CHAIAN ANDREI OCAMPO NUNEZ</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:eduardoaugus.github.io/" target="_blank">EDUARDO AUGUSTO DA SILVA</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:não veio.github.io/" target="_blank">VITORIA DRAEGER</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:lucasspier.github.io/" target="_blank">LUCAS EDUARDO SPIER</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:victorfaccin.github.io/" target="_blank">VICTOR FACCIN FELDER</a> </div> </div>
+VINICIUS FACCIN FELDER (CADÊ?)
+<div class="row p-3"> <div class="col-3"> <a href="https:brocasito1.github.io/" target="_blank">LUIZ FERNANDO VERISSIMO</a> </div> </div>
+NATALIA FERREIRA DOS SANTOS(CADÊ?)
+<div class="row p-3"> <div class="col-3"> <a href="https:ianiapp07.github.io/" target="_blank">IAN HENRIQUE IAPP</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:ygormachadorauber.github.io/" target="_blank">YGOR MACHADO RAUBER</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:suzeliutzig.github.io/" target="_blank">SUZELE MAIARA UTZIG DE JESUS</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:mekene.github.io/" target="_blank">MATEUS NEUBECKER</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:edvaldojunior26.github.io/" target="_blank">EDVALDO OLIVEIRA SOUZA JUNIOR</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:matheupetrik2.github.io/" target="_blank">MATHEUS PETRI KOCHEM</a> </div> </div>
+FABRICIO TURAZZI PAES DANIELSKI(CADÊ?)
+<div class="row p-3"> <div class="col-3"> <a href="https:gabrielbieger.github.io/" target="_blank">GABRIEL VINICIUS BIEGER</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:Le20077.github.io/" target="_blank">LETICIA BEATRYZ BACH</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:marcosbruno22.github.io/" target="_blank">MARCOS BRUNO PILGER</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:clarathiesen07.github.io/" target="_blank">CLARA FERNANDA LORENZI THIESEN</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:sarahkmachado.github.io/" target="_blank">SARAH KAUANE MACHADO</a> </div> </div>
+<div class="row p-3"> <div class="col-3"> <a href="https:Priscilarichart.github.io/" target="_blank">PRISCILA LUANA SOUCHIE RICHART</a> </div> </div>
+
