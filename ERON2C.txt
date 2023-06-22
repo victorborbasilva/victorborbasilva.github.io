@@ -4,7 +4,7 @@
 <div class="row p-3"> <div class="col-3"> <a href="https://não veio.github.io/" target="_blank">VITORIA DRAEGER</a> </div> </div>
 <div class="row p-3"> <div class="col-3"> <a href="https://lucasspier.github.io/" target="_blank">LUCAS EDUARDO SPIER</a> </div> </div>
 <div class="row p-3"> <div class="col-3"> <a href="https://victorfaccin.github.io/" target="_blank">VICTOR FACCIN FELDER</a> </div> </div>
-VINICIUS FACCIN FELDER (CADÊ?)
+<div class="row p-3"> <div class="col-3"> <a href="https://vini-faccin.github.io/" target="_blank">VINICIUS FACCIN FELDER </a> </div> </div>
 <div class="row p-3"> <div class="col-3"> <a href="https://brocasito1.github.io/" target="_blank">LUIZ FERNANDO VERISSIMO</a> </div> </div>
 NATALIA FERREIRA DOS SANTOS(CADÊ?)
 <div class="row p-3"> <div class="col-3"> <a href="https://ianiapp07.github.io/" target="_blank">IAN HENRIQUE IAPP</a> </div> </div>
