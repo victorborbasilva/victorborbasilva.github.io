@@ -2,7 +2,8 @@ body {
   background-color: green;
   color: yellow;
 }
-
+a { color: white;
+}
 .button {
       border: none;
       color: white;
