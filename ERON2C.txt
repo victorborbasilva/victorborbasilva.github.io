@@ -2,7 +2,7 @@
 3<div class="row p-3"> <div class="col-3"> <a href="https://clarathiesen07.github.io/" target="_blank">CLARA FERNANDA LORENZI THIESEN</a> </div> </div>
 5<div class="row p-3"> <div class="col-3"> <a href="https://eduardoaugus.github.io/" target="_blank">EDUARDO AUGUSTO DA SILVA</a> </div> </div>
 6<div class="row p-3"> <div class="col-3"> <a href="https://edvaldojunior26.github.io/" target="_blank">EDVALDO OLIVEIRA SOUZA JUNIOR</a> </div> </div>
-7<div class="row p-3"> <div class="col-3"> <a href="" target="_blank">FABRICIO TURAZZI PAES DANIELSKI(Não tem)</a> </div> </div>
+7<div class="row p-3"> <div class="col-3"> <a href="https://mushoku77.github.io/" target="_blank">FABRICIO TURAZZI PAES DANIELSKI</a> </div> </div>
 8<div class="row p-3"> <div class="col-3"> <a href="https://gabrielbieger.github.io/" target="_blank">GABRIEL VINICIUS BIEGER</a> </div> </div>
 9<div class="row p-3"> <div class="col-3"> <a href="https://ianiapp07.github.io/" target="_blank">IAN HENRIQUE IAPP</a> </div> </div>
 10<div class="row p-3"> <div class="col-3"> <a href="https://Le20077.github.io/" target="_blank">LETÍCIA BEATRYZ BACH</a> </div> </div>
@@ -19,5 +19,6 @@
 22<div class="row p-3"> <div class="col-3"> <a href="https://ygormachadorauber.github.io/" target="_blank">YGOR MACHADO RAUBER</a> </div> </div>
 24<div class="row p-3"> <div class="col-3"> <a href="https://leonardoandr3.github.io/leonardoandr3" target="_blank">LEONARDO ANDRÉ WOLKMER COLPANI</a> </div> </div>
 29<div class="row p-3"> <div class="col-3"> <a href="https://ketlinberrialmeida.github.io" target="_blank">KETLIN CAROLINI BERRI DE ALMEIDA</a> </div> </div>
-30<div class="row p-3"> <div class="col-3"> <a href="" target="_blank">GUSTAVO GIULIANO GARAY DA SILVA(Não tem)</a> </div> </div>
-31<div class="row p-3"> <div class="col-3"> <a href="" target="_blank">MATHEUS FERREIRA PROBST(Não tem)</a> </div> </div>
+30<div class="row p-3"> <div class="col-3"> <a href="https://ggtts7.github.io/" target="_blank">GUSTAVO GIULIANO GARAY DA SILVA</a> </div> </div>
+31<div class="row p-3"> <div class="col-3"> <a href="https://matheusferrew.github.io/" target="_blank">MATHEUS FERREIRA PROBST</a> </div> </div>
+32<div class="row p-3"> <div class="col-3"> <a href="https://lucascampiol.github.io/" target="_blank">LUCAS RAFAEL DA SILVA CAMPIOL</a> </div> </div>
