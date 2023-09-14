@@ -1,23 +1,25 @@
 2<div class="row p-3"> <div class="col-3"> <a href="https://chaianandrei.github.io/" target="_blank">CHAIAN ANDREI OCAMPO NUNEZ</a> </div> </div>
 3<div class="row p-3"> <div class="col-3"> <a href="https://clarathiesen07.github.io/" target="_blank">CLARA FERNANDA LORENZI THIESEN</a> </div> </div>
 5<div class="row p-3"> <div class="col-3"> <a href="https://eduardoaugus.github.io/" target="_blank">EDUARDO AUGUSTO DA SILVA</a> </div> </div>
-6<div class="row p-3"> <div class="col-3"> <a href="https://edvaldojunior26.github.io/" target="_blank">EDVALDO OLIVEIRA SOUZA JUNIOR</a> </div> </div>
+6<div class="row p-3"> <div class="col-3"> <a href="https://edvaldojunior26.github.io/" target="_blank">EDVALDO OLIVEIRA SOUZA JUNIOR - TUTOR CHAIAN</a> </div> </div>
 7<div class="row p-3"> <div class="col-3"> <a href="https://mushoku77.github.io/" target="_blank">FABRICIO TURAZZI PAES DANIELSKI</a> </div> </div>
 8<div class="row p-3"> <div class="col-3"> <a href="https://gabrielbieger.github.io/" target="_blank">GABRIEL VINICIUS BIEGER</a> </div> </div>
 10<div class="row p-3"> <div class="col-3"> <a href="https://Le20077.github.io/" target="_blank">LETÍCIA BEATRYZ BACH</a> </div> </div>
 11<div class="row p-3"> <div class="col-3"> <a href="https://lucasspier.github.io/" target="_blank">LUCAS EDUARDO SPIER</a> </div> </div>
 13<div class="row p-3"> <div class="col-3"> <a href="https://brocasito1.github.io/" target="_blank">LUIZ FERNANDO VERISSIMO</a> </div> </div>
-14<div class="row p-3"> <div class="col-3"> <a href="https://marcosbruno22.github.io/" target="_blank">MARCOS BRUNO PILGER</a> </div> </div>
+14<div class="row p-3"> <div class="col-3"> <a href="https://marcosbruno22.github.io/" target="_blank">MARCOS BRUNO PILGER-TUTOR FABRICIO</a> </div> </div>
 15<div class="row p-3"> <div class="col-3"> <a href="https://mekene.github.io/" target="_blank">MATEUS NEUBECKER</a> </div> </div>
-16<div class="row p-3"> <div class="col-3"> <a href="https://matheupetrik2.github.io/" target="_blank">MATHEUS PETRI KOCHEM</a> </div> </div>
+16<div class="row p-3"> <div class="col-3"> <a href="https://matheupetrik2.github.io/" target="_blank">MATHEUS PETRI KOCHEM - TUTOR GABRIEL</a> </div> </div>
 17<div class="row p-3"> <div class="col-3"> <a href="https://Priscilarichart.github.io/" target="_blank">PRISCILA LUANA SOUCHIE RICHART</a> </div> </div>
 18<div class="row p-3"> <div class="col-3"> <a href="https://sarahkmachado.github.io/" target="_blank">SARAH KAUANE MACHADO</a> </div> </div>
 19<div class="row p-3"> <div class="col-3"> <a href="https://suzeliutzig.github.io/" target="_blank">SUZELE MAIARA UTZIG DE JESUS</a> </div> </div>
 20<div class="row p-3"> <div class="col-3"> <a href="https://victorfaccin.github.io/" target="_blank">VICTOR FACCIN FELDER</a> </div> </div>
 21<div class="row p-3"> <div class="col-3"> <a href="https://vini-faccin.github.io/" target="_blank">VINÍCIUS FACCIN FELDER</a> </div> </div>
-22<div class="row p-3"> <div class="col-3"> <a href="https://ygormachadorauber.github.io/" target="_blank">YGOR MACHADO RAUBER</a> </div> </div>
+22<div class="row p-3"> <div class="col-3"> <a href="https://ygormachadorauber.github.io/" target="_blank">YGOR MACHADO RAUBER - TUTOR LUCAS</a> </div> </div>
 24<div class="row p-3"> <div class="col-3"> <a href="https://leonardoandr3.github.io/" target="_blank">LEONARDO ANDRÉ WOLKMER COLPANI</a> </div> </div>
 29<div class="row p-3"> <div class="col-3"> <a href="https://ketlinberrialmeida.github.io" target="_blank">KETLIN CAROLINI BERRI DE ALMEIDA</a> </div> </div>
-30<div class="row p-3"> <div class="col-3"> <a href="https://ggtts7.github.io/" target="_blank">GUSTAVO GIULIANO GARAY DA SILVA</a> </div> </div>
-31<div class="row p-3"> <div class="col-3"> <a href="https://matheusferrew.github.io/" target="_blank">MATHEUS FERREIRA PROBST</a> </div> </div>
+30<div class="row p-3"> <div class="col-3"> <a href="https://ggtts7.github.io/" target="_blank">GUSTAVO GIULIANO GARAY DA SILVA - TUTOR MATEUS K</a> </div> </div>
+31<div class="row p-3"> <div class="col-3"> <a href="https://matheusferrew.github.io/" target="_blank">MATHEUS FERREIRA PROBST - TUTORA KETLIN</a> </div> </div>
 32<div class="row p-3"> <div class="col-3"> <a href="https://lucascampiol.github.io/" target="_blank">LUCAS RAFAEL DA SILVA CAMPIOL</a> </div> </div>
+33<div class="row p-3"> <div class="col-3"> <a href="#" target="_blank">ANTONIO CLAUDIO DE CARVALHO DA SILVA - TUTORA SARAH</a> </div> </div>
+34<div class="row p-3"> <div class="col-3"> <a href="https://britoester.github.io/" target="_blank">ÉSTER ALVES GOMES DE BRITO</a> </div> </div>
