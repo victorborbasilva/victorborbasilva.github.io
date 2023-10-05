@@ -21,8 +21,8 @@
 22	<div class="row p-3"> <div class="col-3"> <a href="https://vinilemebck.github.io/" target="_blank">VINICIUS ALMADAZ LEMBECK</a> </div> </div>
 23	<div class="row p-3"> <div class="col-3"> <a href="https://vitoriafreita.github.io/" target="_blank">VITORIA CAMILE FREITAG DIEDRICHS</a> </div> </div>
 25	<div class="row p-3"> <div class="col-3"> <a href="https://nayghts.github.io/" target="_blank">YAN VITOR DE OLIVEIRA CARDOSO</a> </div> </div>
-28	<div class="row p-3"> <div class="col-3"> <a href="https://leosjfut14.github.io" target="_blank">LEONARDO PEREIRA DOS SANTOS</a> </div> </div>
-29	<div class="row p-3"> <div class="col-3"> <a href="leosjfut14.github.io" target="_blank">LETÍCIA SCHLINDEVEIN <não tem> Tutor Ícaro</a> </div> </div>
-30	<div class="row p-3"> <div class="col-3"> <a href="#" target="_blank">SOFIA SIPAVICIUS SEIDE <não tem> Tutora Eduarda</a> </div> </div>
-31	<div class="row p-3"> <div class="col-3"> <a href="https://github.com/mathreidelas/mathreidelas" target="_blank">MATHEUS ALBANO HENSEL - TUTOR YAN</a> </div> </div>
+28	<div class="row p-3"> <div class="col-3"> <a href="https://leonardopereirasantos.github.io/" target="_blank">LEONARDO PEREIRA DOS SANTOS</a> </div> </div>
+29	<div class="row p-3"> <div class="col-3"> <a href="#" target="_blank">LETÍCIA SCHLINDEVEIN <não tem> Tutor Ícaro</a> </div> </div>
+30	<div class="row p-3"> <div class="col-3"> <a href="https://sofisseda.github.io/" target="_blank">SOFIA SIPAVICIUS SEIDE <não tem> Tutora Eduarda</a> </div> </div>
+31	<div class="row p-3"> <div class="col-3"> <a href="https://https://mathreidelas.github.io/" target="_blank">MATHEUS ALBANO HENSEL - TUTOR YAN</a> </div> </div>
 32	<div class="row p-3"> <div class="col-3"> <a href="#" target="_blank">GRAZIELA TABORDA SADOVNHIC <não tem> Tutora Dayana</a> </div> </div>
