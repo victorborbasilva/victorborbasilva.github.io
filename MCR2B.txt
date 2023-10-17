@@ -10,11 +10,11 @@
 <div class="row p-3"> <div class="col-3"><a href="https://kemelyludwig.github.io/" target="_blank">KEMELY LUDWIG DA SILVA</a></div></div>
 <div class="row p-3"> <div class="col-3"><a href="https://larissavgp.github.io/" target="_blank">LARISSA VITÓRIA GALVÃO PINTO</a></div></div>
 <div class="row p-3"> <div class="col-3"><a href="https://maaravitory.github.io/" target="_blank">MARA VITORIA DE LIMA TEIXEIRA</a></div></div>
-<div class="row p-3"> <div class="col-3"><a href="rafaeldias20122006.github.io RAFAEL HENRIQUE DIAS
+<div class="row p-3"> <div class="col-3"><a href="rafaeldias20122006.github.io/" target="_blank"> RAFAEL HENRIQUE DIAS</a></div></div>
 <div class="row p-3"> <div class="col-3"><a href="https://ferzapa17.github.io/" target="_blank">REBECA LUISA ZAPAROLLI</a></div></div>
 <div class="row p-3"> <div class="col-3"><a href="https://samuel1045.github.io/" target="_blank">SAMUEL FELIPE HATZENBERGER GROSKLASS</a></div></div>
 <div class="row p-3"> <div class="col-3"><a href="https://kauanlalavik.github.io/" target="_blank">KAUAN DOS SANTOS SILVEIRA</a></div></div>
 <div class="row p-3"> <div class="col-3"><a href="https://ericktipole.github.io/" target="_blank">ERICK NATHAN OLEGARIO DA SILVA DE SOUZA</a></div></div>
 <div class="row p-3"> <div class="col-3"><a href="https://dsantos3588.github.io" target="_blank">DEYVISSON HENRIQUE SIQUEIRA DA SILVA</a></div></div>
-<div class="row p-3"> <div class="col-3"><a href="https://dsantos3588.github.io" target="_blank">Jenifer</a></div></div>
+<div class="row p-3"> <div class="col-3"><a href="https://niezyn.github.io" target="_blank">Jenifer</a></div></div>
 <div class="row p-3"> <div class="col-3"><a href="https://dsantos3588.github.io" target="_blank">Letícia</a></div></div>
