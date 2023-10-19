@@ -15,6 +15,7 @@
 <div class="row p-3"> <div class="col-3"><a href="https://samuel1045.github.io/" target="_blank">SAMUEL FELIPE HATZENBERGER GROSKLASS</a></div></div>
 <div class="row p-3"> <div class="col-3"><a href="https://kauanlalavik.github.io/" target="_blank">KAUAN DOS SANTOS SILVEIRA</a></div></div>
 <div class="row p-3"> <div class="col-3"><a href="https://ericktipole.github.io/" target="_blank">ERICK NATHAN OLEGARIO DA SILVA DE SOUZA</a></div></div>
+<div class="row p-3"> <div class="col-3"><a href="https://leticiagabriela16.github.io/" target="_blank">LETICIA GABRIELA GOLIMBIEVSKI NIELAND</a></div></div>
 <div class="row p-3"> <div class="col-3"><a href="https://dsantos3588.github.io" target="_blank">DEYVISSON HENRIQUE SIQUEIRA DA SILVA</a></div></div>
-<div class="row p-3"> <div class="col-3"><a href="https://dsantos3588.github.io" target="_blank">Jenifer</a></div></div>
-<div class="row p-3"> <div class="col-3"><a href="https://leticiagabriela16.github.io/" target="_blank">Letícia</a></div></div>
+<div class="row p-3"> <div class="col-3"><a href="https://niezyn.github.io/" target="_blank">JENIFER RIBEIRO XIMENES</a></div></div>
+
